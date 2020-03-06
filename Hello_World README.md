@@ -1,16 +1,16 @@
-## Table of Content
+## Table of Content:bookmark:
 
-**a.Project Title**
+**:one:Project Title**
 
-**b.Decription**
+**:two:Decription**
 
-**c.How to Run Program**
+**:three: How to Run Program**
 
-**d.Files Used**
+**:four:Files Used**
 
-**e.Additional Documentation**
+**:five:Additional Documentation**
 
-**f.Versioning**
+**:six:Versioning**
 
 #
 ### Project Title
@@ -27,7 +27,8 @@ Provide the code sample
 ### Files Used 
 
 
-## Additional Documentation
+### Additional Documentation
 
 
-## Versioning
+### Versioning
+:+1:
